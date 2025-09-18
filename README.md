@@ -9,7 +9,7 @@
 - 🎤 **Talks**: *How to Visualize a Biobank, Lessons from the All of Us UMAP Scandal* (MHI, 2024–25), *What Every Biologist Should Know About Manifold Learning* (IRIC, 2023)  
 - 🏆 **Awards**: NSERC CGS-D, Michael Smith Foreign Study Supplement, Canadian Bioinformatics Hub Training Award, Ontario Graduate Scholarship  
 - 💻 **Skills**: Python, Bash, LaTeX, SLURM, Nextflow, PLINK, Git, AWS  
-- 🌐 **Links**: [GitHub](https://github.com/MattScicluna) · [LinkedIn](https://www.linkedin.com/in/mattscicluna/) · [Google Scholar](https://scholar.google.com)  
+- 🌐 **Links**: [LinkedIn](https://www.linkedin.com/in/mattscicluna/) · [Google Scholar](https://scholar.google.com)  
 - 🙂 Pronouns: he/him
 
 ---
