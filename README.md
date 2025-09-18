@@ -14,28 +14,10 @@
 
 ---
 
-<table>
-<tr>
-<td>
-
-### 📊 My GitHub Statistics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MattScicluna&theme=tokyonight" alt="stats card" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattScicluna&theme=tokyonight" alt="repos per language" />
-
-</td>
-<td>
-
-### 🧑‍💻 My Programming Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MattScicluna&theme=tokyonight" alt="most used languages" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattScicluna&layout=compact&theme=radical" alt="top languages" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattScicluna&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattScicluna&layout=compact&theme=tokyonight" height="180" />
+</p>
 
 ---
 
