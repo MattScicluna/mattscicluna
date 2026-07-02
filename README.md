@@ -15,7 +15,7 @@
 ---
 
 ### 📝 Selected Publications (and Pre-Prints) 
-- **A Transparent and Generalizable Deep Learning Framework for Genomic Ancestry Prediction** *AJHG* (2025) [doi](https://doi.org/10.1101/2025.08.26.672448)
+- **A Transparent and Generalizable Deep Learning Framework for Genomic Ancestry Prediction** *AJHG* (2026) [doi](https://doi.org/10.1101/2025.08.26.672448)
 - **Predicting pathogen evolution and immune evasion in the age of AI**, *CSBJ* (2025) [doi](https://doi.org/10.1016/j.csbj.2025.03.044)  
 - **Towards computing attributions for dimensionality reduction techniques**, *Bioinformatics Advances* (2023) [doi](https://doi.org/10.1101/2023.05.12.540592)
 - **A modern take on the bias-variance tradeoff in neural networks**  *ArXiv* (2018) [doi](https://doi.org/10.48550/arXiv.1810.08591)
