@@ -4,8 +4,8 @@
   Affiliations: [Mila – Quebec AI Institute](https://mila.quebec/), Montreal Heart Institute (MHI), and IRIC  
   Thesis: *On the Visualization of Genetic Data*  
 - 🧠 **Research Interests**: population genetics, manifold learning, causal inference, deep learning for genomics  
-- 🧳 **Experience**: Machine Learning Engineer (insitro, Huawei Noah’s Ark Lab), Research Assistant (MHI), Visiting Scholar (Yale, Dept. of Genetics)  
-- 📚 **Publications**: AJHG (2026), CSBJ (2025), Bioinformatics Advances (2023), Behavior Research Methods (2018)  
+- 🧳 **Experience**: Machine Learning Engineer (Helix, insitro, Huawei Noah’s Ark Lab), Research Assistant (MHI), Visiting Scholar (Yale, Dept. of Genetics)  
+- 📚 **Publications**: NeurIPS Datasets & Benchmarks (2026), AJHG (2026), CSBJ (2025), Bioinformatics Advances (2023), Behavior Research Methods (2018)  
 - 🎤 **Talks**: *How to Visualize a Biobank, Lessons from the All of Us UMAP Scandal* (MHI, 2024–25), *What Every Biologist Should Know About Manifold Learning* (IRIC, 2023)  
 - 🏆 **Awards**: NSERC CGS-D, Michael Smith Foreign Study Supplement, Canadian Bioinformatics Hub Training Award, Ontario Graduate Scholarship  
 - 💻 **Skills**: Python, Bash, LaTeX, SLURM, Nextflow, PLINK, Git, AWS  
@@ -15,6 +15,7 @@
 ---
 
 ### 📝 Selected Publications (and Pre-Prints) 
+- **scShapeBench: Discovering geometry from high dimensional scRNAseq data**, *NeurIPS Datasets & Benchmarks Track* (2026) [doi](https://doi.org/10.48550/arXiv.2605.12662)
 - **PHATE-Derived Ancestry Coordinates Capture Continuous Population Structure in Human Genomic Data**, *bioRxiv* (2026) [doi](https://doi.org/10.64898/2026.10.29.762525)
 - **A Transparent and Generalizable Deep Learning Framework for Genomic Ancestry Prediction** *AJHG* (2026) [doi](https://doi.org/10.1101/2025.08.26.672448)
 - **Predicting pathogen evolution and immune evasion in the age of AI**, *CSBJ* (2025) [doi](https://doi.org/10.1016/j.csbj.2025.03.044)  
