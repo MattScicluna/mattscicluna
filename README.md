@@ -4,7 +4,7 @@
   Affiliations: [Mila – Quebec AI Institute](https://mila.quebec/), Montreal Heart Institute (MHI), and IRIC  
   Thesis: *On the Visualization of Genetic Data*  
 - 🧠 **Research Interests**: population genetics, manifold learning, causal inference, deep learning for genomics  
-- 🧳 **Experience**: Machine Learning Engineer (Helix, insitro, Huawei Noah’s Ark Lab), Research Assistant (MHI), Visiting Scholar (Yale, Dept. of Genetics)  
+- 🧳 **Experience**: AI/ML Scientist (Helix), Machine Learning Engineer (insitro, Huawei Noah’s Ark Lab), Research Assistant (MHI), Visiting Scholar (Yale, Dept. of Genetics)  
 - 📚 **Publications**: NeurIPS Datasets & Benchmarks (2026), AJHG (2026), CSBJ (2025), Bioinformatics Advances (2023), Behavior Research Methods (2018)  
 - 🎤 **Talks**: *How to Visualize a Biobank, Lessons from the All of Us UMAP Scandal* (MHI, 2024–25), *What Every Biologist Should Know About Manifold Learning* (IRIC, 2023)  
 - 🏆 **Awards**: NSERC CGS-D, Michael Smith Foreign Study Supplement, Canadian Bioinformatics Hub Training Award, Ontario Graduate Scholarship  
